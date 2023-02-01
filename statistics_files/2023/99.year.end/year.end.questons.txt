@@ -1,0 +1,28 @@
+9.1 a - books owned at the beginning of 2023
+9.1 b - books added during 2023 
+9.1 c - books withdrawn during 2023 
+9.2 audio - physical units (county by itype - )
+9.3 video - physical units (count by itype - )
+9.4 other physical units (everything not counted above or in 9.10)
+9.1-4x - Craft a report to gather this data monthly
+
+9.6 a - Hoopla audio - total content count 
+9.7 a - Hopla video - total content count 
+9.8 a - Hoopla print - total content count 
+
+9.10 - print serials count (count by itype - )
+Craft a report for this
+
+11.1 - Circulation of adult materials (items with an "adult" shelving location and these item types - )
+11.2 - Circulation of non-adult materials (items with a "Childrens" or "YA" shelving location and these item types - ) 
+11.4 - circulation of "Other" items (All items with these item types regardless of shelving location) 
+11.X - Craft a report to gather this information in this format monthly
+
+11.5 - Hoopla circulation 
+11.6 - Flipster - get from RHASTINGS 
+
+11.14 - Next Search Catalog items borrowed
+11.16 - Next Search Catalog items lent
+
+11.17 - there is no way to calculate this data using data from within Next Search Catalog 
+
