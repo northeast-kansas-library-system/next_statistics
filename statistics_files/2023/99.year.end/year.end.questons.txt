@@ -26,3 +26,5 @@ Craft a report for this
 
 11.17 - there is no way to calculate this data using data from within Next Search Catalog 
 
+='Yearly total'!I52
+='Yearly total'!I103
