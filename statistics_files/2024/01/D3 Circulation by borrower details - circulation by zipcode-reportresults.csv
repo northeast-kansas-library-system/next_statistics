@@ -64,7 +64,7 @@ Library,"Borrower zipcode","Checkouts + renewals"
 "Bern Community Library",-,32
 "Bern Community Library",66408,94
 "Bern Community Library",66534,17
-"Bonner Springs City Library",-,49
+"Bonner Springs City Library",-,66
 "Bonner Springs City Library",0,611
 "Bonner Springs City Library",66007,87
 "Bonner Springs City Library",66012,3508
@@ -89,8 +89,6 @@ Library,"Borrower zipcode","Checkouts + renewals"
 "Bonner Springs City Library",66215,13
 "Bonner Springs City Library",66216,50
 "Bonner Springs City Library",66218,155
-"Bonner Springs City Library",66219,2
-"Bonner Springs City Library",66220,2
 "Bonner Springs City Library",66226,277
 "Bonner Springs City Library",66227,48
 "Bonner Springs City Library",66440,1
@@ -102,22 +100,14 @@ Library,"Borrower zipcode","Checkouts + renewals"
 "Bonner Springs City Library",66749,2
 "Bonner Springs City Library",66801,1
 "Bonner Springs City Library",66839,1
-"Bonner Springs City Library",66846,1
-"Bonner Springs City Library",66901,2
 "Bonner Springs City Library",66945,1
-"Bonner Springs City Library",67002,1
 "Bonner Springs City Library",67042,1
-"Bonner Springs City Library",67154,3
 "Bonner Springs City Library",67401,2
-"Bonner Springs City Library",67410,2
 "Bonner Springs City Library",67439,1
-"Bonner Springs City Library",67460,2
 "Bonner Springs City Library",67501,1
 "Bonner Springs City Library",67550,1
 "Bonner Springs City Library",67654,2
 "Bonner Springs City Library",67701,2
-"Bonner Springs City Library",67735,1
-"Bonner Springs City Library",67801,1
 "Burlingame Community Library",0,3
 "Burlingame Community Library",66413,468
 "Burlingame Community Library",66414,32
@@ -190,7 +180,7 @@ Library,"Borrower zipcode","Checkouts + renewals"
 "Everest, Barnes Reading Room",66424,108
 "Everest, Barnes Reading Room",66434,1
 "Everest, Barnes Reading Room",66439,17
-"Hiawatha, Morrill Public Library",-,10
+"Hiawatha, Morrill Public Library",-,11
 "Hiawatha, Morrill Public Library",0,13
 "Hiawatha, Morrill Public Library",66008,3
 "Hiawatha, Morrill Public Library",66017,26
@@ -210,7 +200,6 @@ Library,"Borrower zipcode","Checkouts + renewals"
 "Hiawatha, Morrill Public Library",66536,1
 "Hiawatha, Morrill Public Library",67042,1
 "Hiawatha, Morrill Public Library",67654,1
-"Hiawatha, Morrill Public Library",67735,1
 "Hiawatha, Morrill Public Library",68355,21
 "Highland Community College",-,3
 "Highland Community College",0,9
@@ -247,7 +236,7 @@ Library,"Borrower zipcode","Checkouts + renewals"
 "Holton, Beck-Bookman Library",66552,44
 "Holton, Beck-Bookman Library",66801,1
 "Holton, Beck-Bookman Library",67401,1
-"Horton Public Library",-,21
+"Horton Public Library",-,25
 "Horton Public Library",0,16
 "Horton Public Library",66053,1
 "Horton Public Library",66066,1
@@ -259,9 +248,6 @@ Library,"Borrower zipcode","Checkouts + renewals"
 "Horton Public Library",66547,1
 "Horton Public Library",66749,1
 "Horton Public Library",66801,6
-"Horton Public Library",66846,1
-"Horton Public Library",67002,1
-"Horton Public Library",67154,2
 "Horton Public Library",67550,2
 "Lansing Community Library",-,3
 "Lansing Community Library",66007,12
@@ -360,7 +346,7 @@ Library,"Borrower zipcode","Checkouts + renewals"
 "Osage City Library",66543,22
 "Osage City Library",66614,2
 "Osage City Library",66868,19
-"Osawatomie Public Library",-,20
+"Osawatomie Public Library",-,22
 "Osawatomie Public Library",0,36
 "Osawatomie Public Library",66026,2
 "Osawatomie Public Library",66030,30
@@ -373,9 +359,7 @@ Library,"Borrower zipcode","Checkouts + renewals"
 "Osawatomie Public Library",66083,3
 "Osawatomie Public Library",66411,1
 "Osawatomie Public Library",66451,1
-"Osawatomie Public Library",67337,1
 "Osawatomie Public Library",67401,2
-"Osawatomie Public Library",67410,1
 "Oskaloosa Public Library",-,1
 "Oskaloosa Public Library",66044,8
 "Oskaloosa Public Library",66050,3
@@ -384,7 +368,7 @@ Library,"Borrower zipcode","Checkouts + renewals"
 "Oskaloosa Public Library",66070,74
 "Oskaloosa Public Library",66073,45
 "Oskaloosa Public Library",66088,38
-"Ottawa Library",-,43
+"Ottawa Library",-,50
 "Ottawa Library",0,10
 "Ottawa Library",66006,53
 "Ottawa Library",66007,3
@@ -399,7 +383,6 @@ Library,"Borrower zipcode","Checkouts + renewals"
 "Ottawa Library",66064,26
 "Ottawa Library",66066,3
 "Ottawa Library",66067,4898
-"Ottawa Library",66075,1
 "Ottawa Library",66076,440
 "Ottawa Library",66078,153
 "Ottawa Library",66079,429
@@ -414,7 +397,6 @@ Library,"Borrower zipcode","Checkouts + renewals"
 "Ottawa Library",66523,17
 "Ottawa Library",66524,7
 "Ottawa Library",66528,25
-"Ottawa Library",66531,1
 "Ottawa Library",66536,2
 "Ottawa Library",66537,13
 "Ottawa Library",66542,13
@@ -422,10 +404,8 @@ Library,"Borrower zipcode","Checkouts + renewals"
 "Ottawa Library",66547,1
 "Ottawa Library",66617,2
 "Ottawa Library",66801,1
-"Ottawa Library",66846,4
 "Ottawa Library",66856,1
 "Ottawa Library",66871,4
-"Ottawa Library",67154,1
 "Ottawa Library",67501,1
 "Ottawa Library",67654,1
 "Ottawa Library",67701,1
@@ -443,7 +423,7 @@ Library,"Borrower zipcode","Checkouts + renewals"
 "Overbrook Public Library",66542,7
 "Overbrook Public Library",66611,6
 "Overbrook Public Library",67401,9
-"Paola Free Library",-,26
+"Paola Free Library",-,29
 "Paola Free Library",0,262
 "Paola Free Library",66026,30
 "Paola Free Library",66030,8
@@ -463,8 +443,6 @@ Library,"Borrower zipcode","Checkouts + renewals"
 "Paola Free Library",66441,1
 "Paola Free Library",66508,8
 "Paola Free Library",66749,2
-"Paola Free Library",67410,1
-"Paola Free Library",67432,2
 "Paola Free Library",67701,5
 "Perry-Lecompton Community Library",66050,41
 "Perry-Lecompton Community Library",66066,1
@@ -514,7 +492,7 @@ Library,"Borrower zipcode","Checkouts + renewals"
 "Rossville Community Library",66614,7
 "Rossville Community Library",66615,26
 "Rossville Community Library",66618,7
-"Sabetha, Mary Cotton Library",-,334
+"Sabetha, Mary Cotton Library",-,335
 "Sabetha, Mary Cotton Library",0,2
 "Sabetha, Mary Cotton Library",66002,4
 "Sabetha, Mary Cotton Library",66040,1
@@ -530,7 +508,6 @@ Library,"Borrower zipcode","Checkouts + renewals"
 "Sabetha, Mary Cotton Library",66538,1
 "Sabetha, Mary Cotton Library",66547,1
 "Sabetha, Mary Cotton Library",66550,12
-"Sabetha, Mary Cotton Library",67410,1
 "Seneca Free Library",-,15
 "Seneca Free Library",0,1
 "Seneca Free Library",66403,49
@@ -593,7 +570,7 @@ Library,"Borrower zipcode","Checkouts + renewals"
 "Wetmore Public Library",66516,3
 "Wetmore Public Library",66538,17
 "Wetmore Public Library",66550,256
-"Williamsburg Community Library",-,21
+"Williamsburg Community Library",-,24
 "Williamsburg Community Library",66053,14
 "Williamsburg Community Library",66067,34
 "Williamsburg Community Library",66076,10
@@ -604,10 +581,8 @@ Library,"Borrower zipcode","Checkouts + renewals"
 "Williamsburg Community Library",66528,6
 "Williamsburg Community Library",66547,8
 "Williamsburg Community Library",66801,7
-"Williamsburg Community Library",67156,2
-"Williamsburg Community Library",67420,1
 "Williamsburg Community Library",67701,4
-"Winchester Public Library",-,5
+"Winchester Public Library",-,6
 "Winchester Public Library",66002,97
 "Winchester Public Library",66016,2
 "Winchester Public Library",66053,1
@@ -615,5 +590,4 @@ Library,"Borrower zipcode","Checkouts + renewals"
 "Winchester Public Library",66066,115
 "Winchester Public Library",66088,33
 "Winchester Public Library",66097,254
-"Winchester Public Library",66901,1
 "Winchester Public Library",67501,1
