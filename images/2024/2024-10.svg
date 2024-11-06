@@ -1,0 +1,1821 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="322.26248mm"
+   height="216.95833mm"
+   viewBox="0 0 322.26248 216.95833"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="2024-10.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.72426347"
+     inkscape:cx="587.49339"
+     inkscape:cy="419.0464"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <clipPath
+       id="clip0">
+      <rect
+         x="494"
+         y="0"
+         width="1218"
+         height="820"
+         id="rect1" />
+    </clipPath>
+    <clipPath
+       id="clip1">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect2" />
+    </clipPath>
+    <clipPath
+       id="clip2">
+      <rect
+         x="508"
+         y="83"
+         width="1189"
+         height="708"
+         id="rect3" />
+    </clipPath>
+    <clipPath
+       id="clip3">
+      <rect
+         x="508"
+         y="83"
+         width="1189"
+         height="708"
+         id="rect4" />
+    </clipPath>
+    <clipPath
+       id="clip4">
+      <rect
+         x="508"
+         y="83"
+         width="1189"
+         height="708"
+         id="rect5" />
+    </clipPath>
+    <clipPath
+       id="clip5">
+      <rect
+         x="508"
+         y="83"
+         width="1189"
+         height="708"
+         id="rect6" />
+    </clipPath>
+    <clipPath
+       id="clip6">
+      <rect
+         x="508"
+         y="83"
+         width="1189"
+         height="708"
+         id="rect7" />
+    </clipPath>
+    <clipPath
+       id="clip7">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect8" />
+    </clipPath>
+    <clipPath
+       id="clip8">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect9" />
+    </clipPath>
+    <clipPath
+       id="clip9">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect10" />
+    </clipPath>
+    <clipPath
+       id="clip10">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect11" />
+    </clipPath>
+    <clipPath
+       id="clip11">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect12" />
+    </clipPath>
+    <clipPath
+       id="clip12">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect13" />
+    </clipPath>
+    <clipPath
+       id="clip13">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect14" />
+    </clipPath>
+    <clipPath
+       id="clip14">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect15" />
+    </clipPath>
+    <clipPath
+       id="clip15">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect16" />
+    </clipPath>
+    <clipPath
+       id="clip16">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect17" />
+    </clipPath>
+    <clipPath
+       id="clip17">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect18" />
+    </clipPath>
+    <clipPath
+       id="clip18">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect19" />
+    </clipPath>
+    <clipPath
+       id="clip19">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect20" />
+    </clipPath>
+    <clipPath
+       id="clip20">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect21" />
+    </clipPath>
+    <clipPath
+       id="clip21">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect22" />
+    </clipPath>
+    <clipPath
+       id="clip22">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect23" />
+    </clipPath>
+    <clipPath
+       id="clip23">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect24" />
+    </clipPath>
+    <clipPath
+       id="clip24">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect25" />
+    </clipPath>
+    <clipPath
+       id="clip25">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect26" />
+    </clipPath>
+    <clipPath
+       id="clip26">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect27" />
+    </clipPath>
+    <clipPath
+       id="clip27">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect28" />
+    </clipPath>
+    <clipPath
+       id="clip28">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect29" />
+    </clipPath>
+    <clipPath
+       id="clip29">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect30" />
+    </clipPath>
+    <clipPath
+       id="clip30">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect31" />
+    </clipPath>
+    <clipPath
+       id="clip31">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect32" />
+    </clipPath>
+    <clipPath
+       id="clip32">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect33" />
+    </clipPath>
+    <clipPath
+       id="clip33">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect34" />
+    </clipPath>
+    <clipPath
+       id="clip34">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect35" />
+    </clipPath>
+    <clipPath
+       id="clip35">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect36" />
+    </clipPath>
+    <clipPath
+       id="clip36">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect37" />
+    </clipPath>
+    <clipPath
+       id="clip37">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect38" />
+    </clipPath>
+    <clipPath
+       id="clip38">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect39" />
+    </clipPath>
+    <clipPath
+       id="clip39">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect40" />
+    </clipPath>
+    <clipPath
+       id="clip40">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect41" />
+    </clipPath>
+    <clipPath
+       id="clip41">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect42" />
+    </clipPath>
+    <clipPath
+       id="clip42">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect43" />
+    </clipPath>
+    <clipPath
+       id="clip43">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect44" />
+    </clipPath>
+    <clipPath
+       id="clip44">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect45" />
+    </clipPath>
+    <clipPath
+       id="clip45">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect46" />
+    </clipPath>
+    <clipPath
+       id="clip46">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect47" />
+    </clipPath>
+    <clipPath
+       id="clip47">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect48" />
+    </clipPath>
+    <clipPath
+       id="clip48">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect49" />
+    </clipPath>
+    <clipPath
+       id="clip49">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect50" />
+    </clipPath>
+    <clipPath
+       id="clip50">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect51" />
+    </clipPath>
+    <clipPath
+       id="clip51">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect52" />
+    </clipPath>
+    <clipPath
+       id="clip52">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect53" />
+    </clipPath>
+    <clipPath
+       id="clip53">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect54" />
+    </clipPath>
+    <clipPath
+       id="clip54">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect55" />
+    </clipPath>
+    <clipPath
+       id="clip55">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect56" />
+    </clipPath>
+    <clipPath
+       id="clip56">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect57" />
+    </clipPath>
+    <clipPath
+       id="clip57">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect58" />
+    </clipPath>
+    <clipPath
+       id="clip58">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect59" />
+    </clipPath>
+    <clipPath
+       id="clip59">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect60" />
+    </clipPath>
+    <clipPath
+       id="clip60">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect61" />
+    </clipPath>
+    <clipPath
+       id="clip61">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect62" />
+    </clipPath>
+    <clipPath
+       id="clip62">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect63" />
+    </clipPath>
+    <clipPath
+       id="clip63">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect64" />
+    </clipPath>
+    <clipPath
+       id="clip64">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect65" />
+    </clipPath>
+    <clipPath
+       id="clip65">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect66" />
+    </clipPath>
+    <clipPath
+       id="clip66">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect67" />
+    </clipPath>
+    <clipPath
+       id="clip67">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect68" />
+    </clipPath>
+    <clipPath
+       id="clip68">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect69" />
+    </clipPath>
+    <clipPath
+       id="clip69">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect70" />
+    </clipPath>
+    <clipPath
+       id="clip70">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect71" />
+    </clipPath>
+    <clipPath
+       id="clip71">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect72" />
+    </clipPath>
+    <clipPath
+       id="clip72">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect73" />
+    </clipPath>
+    <clipPath
+       id="clip73">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect74" />
+    </clipPath>
+    <clipPath
+       id="clip74">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect75" />
+    </clipPath>
+    <clipPath
+       id="clip75">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect76" />
+    </clipPath>
+    <clipPath
+       id="clip76">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect77" />
+    </clipPath>
+    <clipPath
+       id="clip77">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect78" />
+    </clipPath>
+    <clipPath
+       id="clip78">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect79" />
+    </clipPath>
+    <clipPath
+       id="clip79">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect80" />
+    </clipPath>
+    <clipPath
+       id="clip80">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect81" />
+    </clipPath>
+    <clipPath
+       id="clip81">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect82" />
+    </clipPath>
+    <clipPath
+       id="clip82">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect83" />
+    </clipPath>
+    <clipPath
+       id="clip83">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect84" />
+    </clipPath>
+    <clipPath
+       id="clip84">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect85" />
+    </clipPath>
+    <clipPath
+       id="clip85">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect86" />
+    </clipPath>
+    <clipPath
+       id="clip86">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect87" />
+    </clipPath>
+    <clipPath
+       id="clip87">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect88" />
+    </clipPath>
+    <clipPath
+       id="clip88">
+      <rect
+         x="493"
+         y="0"
+         width="1217"
+         height="819"
+         id="rect89" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(169.8625,20.902083)">
+    <g
+       clip-path="url(#clip0)"
+       transform="matrix(0.26458333,0,0,0.26458333,-300.56667,-20.902083)"
+       id="g178">
+      <rect
+         x="494"
+         y="0"
+         width="1217"
+         height="819"
+         fill="#ffffff"
+         id="rect90" />
+      <g
+         clip-path="url(#clip1)"
+         id="g90">
+        <path
+           d="M 508.5,83.5001 V 790.5 m 99,-706.9999 V 790.5 m 99,-706.9999 V 790.5 m 99,-706.9999 V 790.5 m 99,-706.9999 V 790.5 m 99,-706.9999 V 790.5 m 99,-706.9999 V 790.5 m 99,-706.9999 V 790.5 m 99,-706.9999 V 790.5 m 99,-706.9999 V 790.5 m 99,-706.9999 V 790.5 m 99,-706.9999 V 790.5 m 99,-706.9999 V 790.5"
+           stroke="#d9d9d9"
+           stroke-linejoin="round"
+           stroke-miterlimit="10"
+           fill="none"
+           id="path90" />
+      </g>
+      <g
+         clip-path="url(#clip2)"
+         id="g91">
+        <path
+           d="m 526,235 h 7 v 556 h -7 z m 98,32 h 8 v 524 h -8 z m 99,188 h 8 v 336 h -8 z m 99,323 h 8 v 13 h -8 z m 99,-74 h 8 v 87 h -8 z m 99,-218 h 8 v 305 h -8 z m 99,-88 h 8 v 393 h -8 z m 99,16 h 8 v 377 h -8 z m 99,-25 h 8 v 402 h -8 z m 99,8 h 8 v 394 h -8 z m 99,52 h 8 v 342 h -8 z m 99,11 h 8 v 331 h -8 z"
+           fill="#4472c4"
+           id="path91" />
+      </g>
+      <g
+         clip-path="url(#clip3)"
+         id="g92">
+        <path
+           d="m 540,468 h 8 v 323 h -8 z m 99,5 h 7 v 318 h -7 z m 99,-99 h 7 v 417 h -7 z m 99,33 h 7 v 384 h -7 z m 99,8 h 7 v 376 h -7 z m 99,-194 h 7 v 570 h -7 z m 99,58 h 7 v 512 h -7 z m 99,55 h 7 v 457 h -7 z m 99,32 h 7 v 425 h -7 z m 99,-6 h 7 v 431 h -7 z m 99,18 h 7 v 413 h -7 z m 99,31 h 7 v 382 h -7 z"
+           fill="#ed7d31"
+           id="path92" />
+      </g>
+      <g
+         clip-path="url(#clip4)"
+         id="g93">
+        <path
+           d="m 554,384 h 8 v 407 h -8 z m 99,29 h 8 v 378 h -8 z m 99,-79 h 8 v 457 h -8 z m 99,39 h 8 v 418 h -8 z m 99,-39 h 8 v 457 h -8 z m 99,-125 h 8 v 582 h -8 z m 99,64 h 8 v 518 h -8 z m 99,3 h 8 v 515 h -8 z m 99,58 h 8 v 457 h -8 z m 99,15 h 8 v 442 h -8 z m 99,16 h 8 v 426 h -8 z m 99,37 h 8 v 389 h -8 z"
+           fill="#a5a5a5"
+           id="path93" />
+      </g>
+      <g
+         clip-path="url(#clip5)"
+         id="g94">
+        <path
+           d="m 569,338 h 7 v 453 h -7 z m 99,28 h 7 v 425 h -7 z m 99,-73 h 7 v 498 h -7 z m 99,69 h 7 v 429 h -7 z m 99,-56 h 7 v 485 h -7 z m 99,-94 h 7 v 579 h -7 z m 99,64 h 7 v 515 h -7 z m 99,15 h 7 v 500 h -7 z m 99,46 h 7 v 454 h -7 z m 99,0 h 7 v 454 h -7 z m 99,24 h 7 v 430 h -7 z m 98,48 h 8 v 382 h -8 z"
+           fill="#ffc000"
+           id="path94" />
+      </g>
+      <g
+         clip-path="url(#clip6)"
+         id="g95">
+        <path
+           d="m 583,368 h 8 v 423 h -8 z m 99,-2 h 8 v 425 h -8 z m 99,-25 h 8 v 450 h -8 z m 99,16 h 8 v 434 h -8 z m 99,-40 h 8 v 474 h -8 z m 99,-64 h 8 v 538 h -8 z m 99,-5 h 8 v 543 h -8 z m 99,70 h 8 v 473 h -8 z m 99,50 h 8 v 423 h -8 z m 99,-24 h 8 v 447 h -8 z"
+           fill="#5b9bd5"
+           id="path95" />
+      </g>
+      <g
+         clip-path="url(#clip7)"
+         id="g96">
+        <path
+           d="m 508.5,790.5 h 1188"
+           stroke="#d9d9d9"
+           stroke-linejoin="round"
+           stroke-miterlimit="10"
+           fill="none"
+           fill-rule="evenodd"
+           id="path96" />
+      </g>
+      <g
+         clip-path="url(#clip8)"
+         id="g97">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,379.9005,-152.9005)"
+           id="text96">109906</text>
+      </g>
+      <g
+         clip-path="url(#clip9)"
+         id="g98">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,445.3865,-186.3865)"
+           id="text97">103689</text>
+      </g>
+      <g
+         clip-path="url(#clip10)"
+         id="g99">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,588.873,-141.873)"
+           id="text98">66315</text>
+      </g>
+      <g
+         clip-path="url(#clip11)"
+         id="g100">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,799.859,-29.859)"
+           id="text99">2483</text>
+      </g>
+      <g
+         clip-path="url(#clip12)"
+         id="g101">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,812.345,-116.345)"
+           id="text100">17196</text>
+      </g>
+      <g
+         clip-path="url(#clip13)"
+         id="g102">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,752.83,-274.83)"
+           id="text101">60352</text>
+      </g>
+      <g
+         clip-path="url(#clip14)"
+         id="g103">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,758.315,-368.315)"
+           id="text102">77693</text>
+      </g>
+      <g
+         clip-path="url(#clip15)"
+         id="g104">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,815.805,-409.805)"
+           id="text103">74484</text>
+      </g>
+      <g
+         clip-path="url(#clip16)"
+         id="g105">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,852.79,-471.79)"
+           id="text104">79423</text>
+      </g>
+      <g
+         clip-path="url(#clip17)"
+         id="g106">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,906.275,-517.275)"
+           id="text105">77821</text>
+      </g>
+      <g
+         clip-path="url(#clip18)"
+         id="g107">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,981.76,-540.76)"
+           id="text106">67505</text>
+      </g>
+      <g
+         clip-path="url(#clip19)"
+         id="g108">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,1036.75,-584.75)"
+           id="text107">65400</text>
+      </g>
+      <g
+         clip-path="url(#clip20)"
+         id="g109">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,503.611,-43.611)"
+           id="text108">63777</text>
+      </g>
+      <g
+         clip-path="url(#clip21)"
+         id="g110">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,555.597,-90.597)"
+           id="text109">62889</text>
+      </g>
+      <g
+         clip-path="url(#clip22)"
+         id="g111">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,555.583,-189.583)"
+           id="text110">82434</text>
+      </g>
+      <g
+         clip-path="url(#clip23)"
+         id="g112">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,621.5695,-222.5695)"
+           id="text111">75969</text>
+      </g>
+      <g
+         clip-path="url(#clip24)"
+         id="g113">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,675.0555,-268.0555)"
+           id="text112">74398</text>
+      </g>
+      <g
+         clip-path="url(#clip25)"
+         id="g114">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,627.54,-414.54)"
+           id="text113">112681</text>
+      </g>
+      <g
+         clip-path="url(#clip26)"
+         id="g115">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,706.03,-435.03)"
+           id="text114">101170</text>
+      </g>
+      <g
+         clip-path="url(#clip27)"
+         id="g116">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,783.015,-457.015)"
+           id="text115">90273</text>
+      </g>
+      <g
+         clip-path="url(#clip28)"
+         id="g117">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,848.5,-490.5)"
+           id="text116">84093</text>
+      </g>
+      <g
+         clip-path="url(#clip29)"
+         id="g118">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,894.985,-542.985)"
+           id="text117">85168</text>
+      </g>
+      <g
+         clip-path="url(#clip30)"
+         id="g119">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,953.47,-583.47)"
+           id="text118">81583</text>
+      </g>
+      <g
+         clip-path="url(#clip31)"
+         id="g120">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,1018.46,-617.46)"
+           id="text119">75582</text>
+      </g>
+      <g
+         clip-path="url(#clip32)"
+         id="g121">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,468.8215,-92.8215)"
+           id="text120">80460</text>
+      </g>
+      <g
+         clip-path="url(#clip33)"
+         id="g122">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,532.8075,-127.8075)"
+           id="text121">74752</text>
+      </g>
+      <g
+         clip-path="url(#clip34)"
+         id="g123">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,542.7935,-216.7935)"
+           id="text122">90284</text>
+      </g>
+      <g
+         clip-path="url(#clip35)"
+         id="g124">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,611.7795,-246.7795)"
+           id="text123">82578</text>
+      </g>
+      <g
+         clip-path="url(#clip36)"
+         id="g125">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,641.766,-315.766)"
+           id="text124">90284</text>
+      </g>
+      <g
+         clip-path="url(#clip37)"
+         id="g126">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,628.75,-427.75)"
+           id="text125">115115</text>
+      </g>
+      <g
+         clip-path="url(#clip38)"
+         id="g127">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,710.24,-445.24)"
+           id="text126">102360</text>
+      </g>
+      <g
+         clip-path="url(#clip39)"
+         id="g128">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,761.225,-493.225)"
+           id="text127">101787</text>
+      </g>
+      <g
+         clip-path="url(#clip40)"
+         id="g129">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,839.71,-513.71)"
+           id="text128">90267</text>
+      </g>
+      <g
+         clip-path="url(#clip41)"
+         id="g130">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,896.695,-555.695)"
+           id="text129">87376</text>
+      </g>
+      <g
+         clip-path="url(#clip42)"
+         id="g131">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,954.18,-597.18)"
+           id="text130">84228</text>
+      </g>
+      <g
+         clip-path="url(#clip43)"
+         id="g132">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,1022.17,-628.17)"
+           id="text131">76918</text>
+      </g>
+      <g
+         clip-path="url(#clip44)"
+         id="g133">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,453.0315,-123.0315)"
+           id="text132">89666</text>
+      </g>
+      <g
+         clip-path="url(#clip45)"
+         id="g134">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,516.518,-158.518)"
+           id="text133">84022</text>
+      </g>
+      <g
+         clip-path="url(#clip46)"
+         id="g135">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,529.504,-244.504)"
+           id="text134">98440</text>
+      </g>
+      <g
+         clip-path="url(#clip47)"
+         id="g136">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,613.49,-259.49)"
+           id="text135">84778</text>
+      </g>
+      <g
+         clip-path="url(#clip48)"
+         id="g137">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,634.976,-336.976)"
+           id="text136">95894</text>
+      </g>
+      <g
+         clip-path="url(#clip49)"
+         id="g138">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,637.46,-433.46)"
+           id="text137">114493</text>
+      </g>
+      <g
+         clip-path="url(#clip50)"
+         id="g139">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,718.95,-450.95)"
+           id="text138">101818</text>
+      </g>
+      <g
+         clip-path="url(#clip51)"
+         id="g140">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,775.935,-492.935)"
+           id="text139">98924</text>
+      </g>
+      <g
+         clip-path="url(#clip52)"
+         id="g141">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,848.42,-519.42)"
+           id="text140">89740</text>
+      </g>
+      <g
+         clip-path="url(#clip53)"
+         id="g142">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,897.905,-568.905)"
+           id="text141">89776</text>
+      </g>
+      <g
+         clip-path="url(#clip54)"
+         id="g143">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,959.395,-606.395)"
+           id="text142">84962</text>
+      </g>
+      <g
+         clip-path="url(#clip55)"
+         id="g144">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,1032.88,-631.88)"
+           id="text143">75603</text>
+      </g>
+      <g
+         clip-path="url(#clip56)"
+         id="g145">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,475.242,-115.242)"
+           id="text144">83661</text>
+      </g>
+      <g
+         clip-path="url(#clip57)"
+         id="g146">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,523.7285,-165.7285)"
+           id="text145">84080</text>
+      </g>
+      <g
+         clip-path="url(#clip58)"
+         id="g147">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,560.7145,-227.7145)"
+           id="text146">89067</text>
+      </g>
+      <g
+         clip-path="url(#clip59)"
+         id="g148">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,618.2005,-269.2005)"
+           id="text147">85725</text>
+      </g>
+      <g
+         clip-path="url(#clip60)"
+         id="g149">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,647.6865,-338.6865)"
+           id="text148">93775</text>
+      </g>
+      <g
+         clip-path="url(#clip61)"
+         id="g150">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,665.175,-420.175)"
+           id="text149">106428</text>
+      </g>
+      <g
+         clip-path="url(#clip62)"
+         id="g151">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,712.16,-472.16)"
+           id="text150">107365</text>
+      </g>
+      <g
+         clip-path="url(#clip63)"
+         id="g152">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,796.645,-486.645)"
+           id="text151">93549</text>
+      </g>
+      <g
+         clip-path="url(#clip64)"
+         id="g153">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,871.13,-511.13)"
+           id="text152">83710</text>
+      </g>
+      <g
+         clip-path="url(#clip65)"
+         id="g154">
+        <text
+           fill="#7f7f7f"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="rotate(-90,908.615,-572.615)"
+           id="text153">88412</text>
+      </g>
+      <g
+         clip-path="url(#clip66)"
+         id="g155">
+        <text
+           fill="#595959"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="translate(532.316,807)"
+           id="text154">JANUARY</text>
+      </g>
+      <g
+         clip-path="url(#clip67)"
+         id="g156">
+        <text
+           fill="#595959"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="translate(627.868,807)"
+           id="text155">FEBRUARY</text>
+      </g>
+      <g
+         clip-path="url(#clip68)"
+         id="g157">
+        <text
+           fill="#595959"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="translate(735.387,807)"
+           id="text156">MARCH</text>
+      </g>
+      <g
+         clip-path="url(#clip69)"
+         id="g158">
+        <text
+           fill="#595959"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="translate(838.743,807)"
+           id="text157">APRIL</text>
+      </g>
+      <g
+         clip-path="url(#clip70)"
+         id="g159">
+        <text
+           fill="#595959"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="translate(941.395,807)"
+           id="text158">MAY</text>
+      </g>
+      <g
+         clip-path="url(#clip71)"
+         id="g160">
+        <text
+           fill="#595959"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="translate(1038.64,807)"
+           id="text159">JUNE</text>
+      </g>
+      <g
+         clip-path="url(#clip72)"
+         id="g161">
+        <text
+           fill="#595959"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="translate(1138.82,807)"
+           id="text160">JULY</text>
+      </g>
+      <g
+         clip-path="url(#clip73)"
+         id="g162">
+        <text
+           fill="#595959"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="translate(1227.81,807)"
+           id="text161">AUGUST</text>
+      </g>
+      <g
+         clip-path="url(#clip74)"
+         id="g163">
+        <text
+           fill="#595959"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="translate(1316.76,807)"
+           id="text162">SEPTEMBER</text>
+      </g>
+      <g
+         clip-path="url(#clip75)"
+         id="g164">
+        <text
+           fill="#595959"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="translate(1422.4,807)"
+           id="text163">OCTOBER</text>
+      </g>
+      <g
+         clip-path="url(#clip76)"
+         id="g165">
+        <text
+           fill="#595959"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="translate(1515.91,807)"
+           id="text164">NOVEMBER</text>
+      </g>
+      <g
+         clip-path="url(#clip77)"
+         id="g166">
+        <text
+           fill="#595959"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="11px"
+           transform="translate(1616.16,807)"
+           id="text165">DECEMBER</text>
+      </g>
+      <g
+         clip-path="url(#clip78)"
+         id="g167">
+        <text
+           fill="#595959"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="700"
+           font-size="21px"
+           transform="translate(967.24,30)"
+           id="text166">MONTHLY CKO+RENEWALS</text>
+      </g>
+      <g
+         clip-path="url(#clip79)"
+         id="g168">
+        <rect
+           x="1001"
+           y="54"
+           width="6"
+           height="7"
+           fill="#4472c4"
+           id="rect167" />
+      </g>
+      <g
+         clip-path="url(#clip80)"
+         id="g169">
+        <text
+           fill="#595959"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="12px"
+           transform="translate(1009.93,60)"
+           id="text168">2020</text>
+      </g>
+      <g
+         clip-path="url(#clip81)"
+         id="g170">
+        <rect
+           x="1044"
+           y="54"
+           width="7"
+           height="7"
+           fill="#ed7d31"
+           id="rect169" />
+      </g>
+      <g
+         clip-path="url(#clip82)"
+         id="g171">
+        <text
+           fill="#595959"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="12px"
+           transform="translate(1053.68,60)"
+           id="text170">2021</text>
+      </g>
+      <g
+         clip-path="url(#clip83)"
+         id="g172">
+        <rect
+           x="1088"
+           y="54"
+           width="7"
+           height="7"
+           fill="#a5a5a5"
+           id="rect171" />
+      </g>
+      <g
+         clip-path="url(#clip84)"
+         id="g173">
+        <text
+           fill="#595959"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="12px"
+           transform="translate(1097.43,60)"
+           id="text172">2022</text>
+      </g>
+      <g
+         clip-path="url(#clip85)"
+         id="g174">
+        <rect
+           x="1132"
+           y="54"
+           width="6"
+           height="7"
+           fill="#ffc000"
+           id="rect173" />
+      </g>
+      <g
+         clip-path="url(#clip86)"
+         id="g175">
+        <text
+           fill="#595959"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="12px"
+           transform="translate(1141.18,60)"
+           id="text174">2023</text>
+      </g>
+      <g
+         clip-path="url(#clip87)"
+         id="g176">
+        <rect
+           x="1176"
+           y="54"
+           width="6"
+           height="7"
+           fill="#5b9bd5"
+           id="rect175" />
+      </g>
+      <g
+         clip-path="url(#clip88)"
+         id="g177">
+        <text
+           fill="#595959"
+           font-family="Calibri, Calibri_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="12px"
+           transform="translate(1184.94,60)"
+           id="text176">2024</text>
+      </g>
+      <rect
+         x="494.5"
+         y="0.50005299"
+         width="1217"
+         height="819"
+         stroke="#d9d9d9"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         id="rect177" />
+    </g>
+  </g>
+</svg>
