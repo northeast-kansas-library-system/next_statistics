@@ -1,13 +1,49 @@
-Helpful VBA
+Sub Go_to_A1()
 
-Unhide all sheets:
+Dim ws As Worksheet
 
-Sub UnhideMe() 'Unhide all of the sheets which are hidden in an Excel file.
+For Each ws In ActiveWorkbook.Sheets
+ws.Activate
+ws.[A1].Select
+ActiveWindow.Zoom = 85
+Next ws
+ActiveWorkbook.Worksheets(1).Activate
+
+End Sub
+
+Sub Go_to_C2()
+
+Dim ws As Worksheet
+
+For Each ws In ActiveWorkbook.Sheets
+ws.Activate
+ws.[C2].Select
+ActiveWindow.Zoom = 85
+Next ws
+ActiveWorkbook.Worksheets(1).Activate
+
+End Sub
+
+Sub Go_to_A6097()
+
+Dim ws As Worksheet
+
+For Each ws In ActiveWorkbook.Sheets
+ws.Activate
+ws.[A6097].Select
+ActiveWindow.Zoom = 85
+Next ws
+ActiveWorkbook.Worksheets(1).Activate
+
+End Sub
+
+Sub Unhide_All() 'Unhide all of the sheets which are hidden in an Excel file.
 Dim ws As Worksheet
 
 For Each ws In Sheets
-ws.Visible=True
+ws.Visible = True
 Next ws
 
 End Sub
+
 
