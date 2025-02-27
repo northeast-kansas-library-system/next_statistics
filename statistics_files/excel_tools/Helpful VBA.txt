@@ -23,6 +23,32 @@ Next ws
 ActiveWorkbook.Worksheets(1).Activate
 
 End Sub
+Sub Go_to_A2810()
+
+Dim ws As Worksheet
+
+For Each ws In ActiveWorkbook.Sheets
+ws.Activate
+ws.[A2810].Select
+ActiveWindow.Zoom = 85
+Next ws
+ActiveWorkbook.Worksheets(1).Activate
+
+End Sub
+
+
+Sub Go_to_A2863()
+
+Dim ws As Worksheet
+
+For Each ws In ActiveWorkbook.Sheets
+ws.Activate
+ws.[A2863].Select
+ActiveWindow.Zoom = 85
+Next ws
+ActiveWorkbook.Worksheets(1).Activate
+
+End Sub
 
 Sub Go_to_A6097()
 
@@ -37,6 +63,7 @@ ActiveWorkbook.Worksheets(1).Activate
 
 End Sub
 
+
 Sub Unhide_All() 'Unhide all of the sheets which are hidden in an Excel file.
 Dim ws As Worksheet
 
@@ -45,5 +72,6 @@ ws.Visible = True
 Next ws
 
 End Sub
+
 
 
