@@ -100,3 +100,6 @@ NEKLS does not run these reports for libraries.  They may run them on their own 
 - Once the image is converted to a png, add a border in SnagIt
 - Once the image has a border, use pnguy to shrink the png file so loading is uses as little bandwidth as possible
 - Then upload it to the \images folder here and give it the appropriate month
+
+
+These instructions are slightly out of date and need to be updated.
