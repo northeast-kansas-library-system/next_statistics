@@ -1,0 +1,18 @@
+1. Open file
+2. Highlight all the pages
+3. Open the Find box
+4. Find what: = the text you're looking for
+5. Within: = Sheet 
+6. Search: = By Rows 
+7. Look in: = Values
+8. Click "Find all"
+9. Highlight all results
+10. Close Find box
+11. Click "Insert" in the "Cells" section of the ribbon
+12. Select "Insert sheet rows"
+13. Give it 3-4 minutes - this will take some time
+14. Highlight all added rows in grey #2 to indicate they're new
+15. Adjust filters as needed
+16. Update formulas as needed 
+17. Update formatting as needed
+18. Update column A and B as needed
